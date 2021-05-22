@@ -36,7 +36,7 @@ to this-
 
 ### Starting and ending
 The program starts from `0` and stops when reached `9,999,999,999,999,999,999`(10 quintillion-1). However this is adjustable.
-To achieve this put where to start and where to end in stead of `<min>` and `<max>`, on line 24-
+To achieve this put where to start and where to end instead of `<min>` and `<max>`, on line 24-
 
 ```
 for (unsigned long long int n=<min>; n<=<max>; n++)
