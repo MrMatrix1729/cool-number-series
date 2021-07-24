@@ -1,5 +1,8 @@
 #include <iostream>
 
+#define MIN = 0
+#define MAX = 999999999999999
+
 using namespace std;
 
 
@@ -22,7 +25,7 @@ int main()
 
     unsigned long long int number;
 
-    for (unsigned long long int n=0; n<=999999999999999; n++)
+    for (unsigned long long int n=MIN; n<=MAX; n++)
     {
       number = n;
       int digit = count_digit(number);                    //to store the number of digit in var 'number'
