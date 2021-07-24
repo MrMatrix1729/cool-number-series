@@ -1,7 +1,7 @@
 #include <iostream>
 
-#define MIN = 0
-#define MAX = 999999999999999
+#define MIN 0
+#define MAX 999999999999999
 
 using namespace std;
 
