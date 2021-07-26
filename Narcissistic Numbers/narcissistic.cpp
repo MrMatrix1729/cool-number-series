@@ -2,6 +2,7 @@
 
 #define MIN 0
 #define MAX 999999999
+#define ZPZ 0
 
 using namespace std;
 
@@ -21,7 +22,7 @@ int main()
 {
     unsigned long long int raisedArray[10][9]=
     {
-        {0,0,0,0,0,0,0,0,0},
+        {ZPZ,ZPZ,ZPZ,ZPZ,ZPZ,ZPZ,ZPZ,ZPZ,ZPZ},
         {1,1,1,1,1,1,1,1,1},
         {2,4,8,16,32,64,128,256,512},
         {3,9,27,81,243,729,2187,6561,19683},
