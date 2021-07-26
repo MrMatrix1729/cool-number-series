@@ -4,13 +4,12 @@ This program is a implementation of bruteforcing Munchaussen numbers in C++
 
 # What is "Munchaussen numbers"?
 Munchaussen numbers are numbers in which when the digits of the number are raised to itself and then added, they result in the number itself.
-
 <br><br>
 ![equation](https://latex.codecogs.com/svg.latex?%5Ccolor%7BTeal%7D3435%3D3%5E3&plus;4%5E4&plus;3%5E3&plus;5%5E5)
 
 #### Reference-
 
-[Wolfram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjmvZXHnt3wAhVY4nMBHWTjBX0QFjABegQIAhAD&url=https%3A%2F%2Fmathworld.wolfram.com%2FMuenchhausenNumber.html&usg=AOvVaw2J5VTwGBNubm40heXrLEG7)
+[Wolfram](https://mathworld.wolfram.com/MuenchhausenNumber.html)
 <br>
 [OEIS](https://oeis.org/A046253)
 
