@@ -3,16 +3,15 @@ This program is a implementation of bruteforcing Munchaussen numbers in C++
 
 
 # What is "Narcissistic numbers"?
-Narcissistic numbers are numbers in which when the digits of the number are raised to the number of digits in the number and then added, they result in the number itself.
-
+Narcissistic numbers are numbers in which when the digits of the number are raised to the number of digits in the number and then added, they result in the number itself
 <br><br>
 ![equation](https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BTeal%7D%20153%3D1%5E3&plus;5%5E3&plus;3%5E3%7D)
 
 #### Reference-
 
-[Wolfram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjmvZXHnt3wAhVY4nMBHWTjBX0QFjABegQIAhAD&url=https%3A%2F%2Fmathworld.wolfram.com%2FMuenchhausenNumber.html&usg=AOvVaw2J5VTwGBNubm40heXrLEG7)
+[Wolfram](https://mathworld.wolfram.com/NarcissisticNumber.html)
 <br>
-[OEIS](https://oeis.org/A046253)
+[OEIS](https://oeis.org/A005188)
 
 
 # What is different?
