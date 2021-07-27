@@ -7,6 +7,8 @@ All the Number series are sorted into folder of their own. Each folder include a
 
 - Munchhausen Numbers
 - Narcissistic Numbers
+- Harshad Numbers
+- Pefect Numbers
 
 ## Series Request
 
