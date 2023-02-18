@@ -1,5 +1,5 @@
 # Introduction
-This program is a implementation of bruteforcing Munchaussen numbers in C++
+This program is a implementation of bruteforcing Narcissistic numbers in C++
 
 
 # What is "Narcissistic numbers"?
